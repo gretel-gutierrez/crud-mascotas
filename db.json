@@ -1,0 +1,49 @@
+{
+  "mascota": [
+    {
+      "nombre": "Buun",
+      "edad": "12",
+      "tipoMascota": "perro",
+      "sintomas": "moquillo",
+      "dueno": "gretel",
+      "imagen": "https://storage.googleapis.com/www-tipsmascotas-com/2019/04/aaa03f49-pastor-alema%CC%81n.jpg",
+      "id": 2
+    },
+    {
+      "nombre": "triston",
+      "edad": "2",
+      "tipoMascota": "perro",
+      "sintomas": "chirrillo",
+      "dueno": "gretel",
+      "imagen": "https://tec.mx/sites/default/files/styles/header_full/public/2018-11/Portada%20perros.jpg?itok=C0Yrshqr",
+      "id": 4
+    },
+    {
+      "nombre": "chupacabras",
+      "edad": "2",
+      "tipoMascota": "perro",
+      "sintomas": "vomito",
+      "dueno": "gretel",
+      "imagen": "https://www.hola.com/imagenes/estar-bien/20180912129368/acaros-perros-gt/0-596-926/portada_perros_acaros-t.jpg?filter=w600&filter=ds75",
+      "id": 5
+    },
+    {
+      "nombre": "Mosquito",
+      "edad": "12",
+      "tipoMascota": "1",
+      "sintomas": "qwe",
+      "dueno": "pechocha",
+      "imagen": "https://i.pinimg.com/564x/e8/a9/ce/e8a9ce9ab3f3c5ef298a14514047647e.jpg",
+      "id": 6
+    },
+    {
+      "nombre": "Peluche",
+      "edad": "24",
+      "tipoMascota": "1",
+      "sintomas": "asdsa",
+      "dueno": "Papi",
+      "imagen": "https://previews.123rf.com/images/manfredxy/manfredxy0807/manfredxy080700037/3361910-pareja-marr%C3%B3n-cachorro-terrier-tibetano.jpg",
+      "id": 7
+    }
+  ]
+}
